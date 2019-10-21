@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jonlo/NodeJs-Weather#readme",
   "dependencies": {
+    "axios": "^0.19.0",
     "yargs": "^14.2.0"
   }
 }
